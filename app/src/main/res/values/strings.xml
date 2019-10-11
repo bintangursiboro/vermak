@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Vermak</string>
+    <string name="content_baju">Perbaiki baju kamu dan temukan penjahit baju terdekat dengan kamu disini</string>
+    <string name="content_tas">Perbaiki tas kamu dan temukan penjahit tas terdekat dengan kamu disini</string>
+    <string name="content_sepatu">Perbaiki sepatu kamu dan temukan penjahit sepatu terdekat dengan kamu disini</string>
+    <string name="vermak">Vermak</string>
 </resources>
